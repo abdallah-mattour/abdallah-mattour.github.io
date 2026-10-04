@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdallah-mattour.github.io/sitemap.xml
